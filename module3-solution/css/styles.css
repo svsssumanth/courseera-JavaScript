@@ -1,0 +1,13 @@
+.col-xs-12{
+    background-color: #ae348836;
+}
+
+#nav-list a{
+    text-align: center;
+    margin: auto;
+    
+}
+
+#nav-list a:hover,#nav-list a:active{
+    background: #e6e6e6;
+}
